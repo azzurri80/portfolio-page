@@ -9,3 +9,12 @@ img {
 ul {
   width: 60%;
 }
+
+h2 {
+  font-size: 20px;
+  flex-wrap: wrap;
+}
+
+blockquote {
+  padding: 10px;
+}
