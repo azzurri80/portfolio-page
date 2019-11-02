@@ -10,7 +10,7 @@ ul {
   width: 60%;
 }
 
-h2 {
+h3 {
   font-weight: bold;
   font-size: 20px;
 
@@ -26,6 +26,7 @@ p {
 
 a{
   font-size: 20px;
+
 }
 
 li {
@@ -36,4 +37,13 @@ li {
   border: 15px darkgrey;
   margin: 10px;
   padding: 5px
+}
+
+.yell {
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  color: #5F9EA0;
 }
