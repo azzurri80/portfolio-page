@@ -1,5 +1,5 @@
 h1 {
-  font-size: 20px
+  font-size: 20px;
 }
 
 img {
@@ -11,8 +11,9 @@ ul {
 }
 
 h2 {
+  font-weight: bold;
   font-size: 20px;
-  flex-wrap: wrap;
+
 }
 
 blockquote {
