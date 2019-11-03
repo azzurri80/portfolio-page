@@ -17,7 +17,8 @@ h3 {
 }
 
 blockquote {
-  padding: 10px;
+  margin: 5px;
+  padding: 5px;
 }
 
 p {
@@ -42,28 +43,34 @@ li {
 
 .yell {
   text-align: center;
+  font-weight: bold;
+  color: black;
 }
 
 h2 {
   font-size: 25px;
-  color: #5F9EA0;
+  color: black;
 }
 
 .well {
   background-color: #008B8B;
   margin: 5px;
   padding: 5px;
-  border: 15px 	#2F4F4F
+  border: 15px 	#2F4F4F;
 }
 
 .bg-info {
-  background-color: #A9A9A9;
+  background-color: #008B8B;
 }
 
 .jumbotron {
-  background-color: #A9A9A9;
+  background-color: #008B8B;
 }
 
 .container {
-  background-color: #F5F5DC;
+  background-color: #DEB887;
 }
+
+h4 {
+  font-size: 25px;
+  padding: 15px;
