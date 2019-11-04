@@ -83,3 +83,7 @@ h4 {
 body {
   background-color: #DEB887;
 }
+
+.elo {
+  font-weight: bold;
+}
