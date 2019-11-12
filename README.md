@@ -3,8 +3,11 @@
 ## Description
 _My portfolio page is set up with an about me section, a list of goals, another list of my favorite things, and links to some of my projects._
 ## Setup
-* With an internet enabled device go to the link below.
-* [Click here](https://azzurri80.github.io/portfolio-page/)**My Portfolio Page**
+* Copy URL https://github.com/azzurri80/portfolio-page.git
+* Open git bash.
+* Change your working directory to your desired location.
+* Type git clone, and paste the copied URL.
+* Press enter and your local clone is created!
 * ### Technologies Used
 * * html
 * * CSS
